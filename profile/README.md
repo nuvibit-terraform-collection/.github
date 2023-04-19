@@ -43,7 +43,7 @@ The collection is constantly expanding and improving through customer feedback.
 <!-- EXAMPLES -->
 <br>
 <p align="center">
-    <a href="https://github.com/orgs/nuvibit-terraform-collection/repositories?q=example+workspace&type=all&language=&sort=">
+    <a href="https://github.com/orgs/nuvibit-terraform-collection/repositories?q=topic%3Aexample&type=all&language=&sort=">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO%20TO%20EXAMPLES&color=7B42BC&logo=StackEdit&logoColor=FFFFFF&label="
             alt="GO TO EXAMPLES">
     </a>
@@ -53,7 +53,7 @@ The collection is constantly expanding and improving through customer feedback.
 <!-- EXAMPLES -->
 <br>
 <p align="center">
-    <a href="https://github.com/orgs/nuvibit-terraform-collection/repositories?q=module&type=all&language=&sort=">
+    <a href="https://github.com/orgs/nuvibit-terraform-collection/repositories?q=topic%3Amodule&type=all&language=&sort=">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO%20TO%20MODULES&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label="
             alt="GO TO MODULES">
     </a>
