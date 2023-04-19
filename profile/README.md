@@ -18,12 +18,22 @@ The collection is constantly expanding and improving through customer feedback.
 
 <!-- WIKI -->
 <br>
-<br>
 <p align="center">
     <a href="https://github.com/nuvibit-terraform-collection/alexandria/wiki">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO%20TO%20Wiki&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label="
-            alt="GO TO WIKI">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VISIT%20ALEXANDRIA&color=7B42BC&logo=Lighthouse&logoColor=FFFFFF&label="
+            alt="VISIT ALEXANDRIA">
     </a>
+    <br>to get more information about how to use the NTC
+</p>
+
+<!-- DISCUSSIONS -->
+<br>
+<p align="center">
+    <a href="https://github.com/orgs/nuvibit-terraform-collection/discussions">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CHECK%20OUT%20DISCUSSIONS&color=7B42BC&logo=GoogleChat&logoColor=FFFFFF&label="
+            alt="CHECK OUT DISCUSSIONS">
+    </a>
+    <br>to submit bug reports, feature ideas or ask for help
 </p>
 
 <!-- COPYRIGHT -->
