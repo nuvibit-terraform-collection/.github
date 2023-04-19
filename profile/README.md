@@ -17,14 +17,14 @@ The collection is constantly expanding and improving through customer feedback.
 </h4>
 
 <!-- WIKI -->
-<!-- <br>
+<br>
 <br>
 <p align="center">
-    <a href="https://github.com/nuvibit-terraform-collection/wiki">
+    <a href="https://github.com/nuvibit-terraform-collection/alexandria/wiki">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO%20TO%20Wiki&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label="
             alt="GO TO WIKI">
     </a>
-</p> -->
+</p>
 
 <!-- COPYRIGHT -->
 <br>
