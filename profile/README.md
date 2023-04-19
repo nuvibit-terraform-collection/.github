@@ -10,7 +10,7 @@
 
 <!-- DESCRIPTION -->
 <div align="center">
-This is a collection of Terraform modules specifically designed to deploy and manage an enterprise-ready AWS cloud foundation.<br>
+NTC is a collection of Terraform modules specifically designed to deploy and manage an enterprise-ready AWS cloud foundation.<br>
 Our specialized AWS expertise in cloud management, connectivity and security is condensed into these modules.<br>
 AWS best practices are not always aligned with industry best practices - We consider both.<br><br>
 The collection is constantly expanding and improving through customer feedback.
