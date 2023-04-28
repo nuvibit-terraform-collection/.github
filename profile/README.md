@@ -24,7 +24,7 @@ The collection is constantly expanding and improving through customer feedback.
 <br>
 <p align="center">
     <a href="https://github.com/nuvibit-terraform-collection/alexandria/wiki">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VISIT%20ALEXANDRIA&color=7B42BC&logo=Lighthouse&logoColor=FFFFFF&label="
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VISIT%20ALEXANDRIA%20(WIKI)&color=7B42BC&logo=Lighthouse&logoColor=FFFFFF&label="
             alt="VISIT ALEXANDRIA (WIKI)">
     </a>
     <br>to get more information about how to use the NTC
