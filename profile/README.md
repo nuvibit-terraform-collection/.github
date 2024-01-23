@@ -16,11 +16,11 @@ AWS best practices are not always aligned with industry best practices - We cons
 The collection is constantly expanding and improving through customer feedback.
 </div>
 
-<!-- WIKI -->
 <hr>
 <p align="center">
- -= MEMBERS ONLY =-
+ === MEMBERS ONLY ===
 </p>
+<!-- WIKI -->
 <br>
 <p align="center">
     <a href="https://github.com/nuvibit-terraform-collection/alexandria/wiki">
@@ -40,17 +40,17 @@ The collection is constantly expanding and improving through customer feedback.
     <br>to submit bug reports, feature ideas or ask for help
 </p>
 
-<!-- EXAMPLES -->
+<!-- BLUEPRINTS -->
 <br>
 <p align="center">
     <a href="https://github.com/orgs/nuvibit-terraform-collection/repositories?q=topic%3Aexample&type=all&language=&sort=">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO%20TO%20EXAMPLES&color=7B42BC&logo=StackEdit&logoColor=FFFFFF&label="
-            alt="GO TO EXAMPLES">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO%20TO%20BLUEPRINTS&color=7B42BC&logo=wasmer&logoColor=FFFFFF&label="
+            alt="GO TO BLUEPRINTS">
     </a>
-    <br>to see a suggested implementation of NTC
+    <br>for a best practice implementation of NTC
 </p>
 
-<!-- EXAMPLES -->
+<!-- MODULES -->
 <br>
 <p align="center">
     <a href="https://github.com/orgs/nuvibit-terraform-collection/repositories?q=topic%3Amodule&type=all&language=&sort=">
@@ -64,4 +64,4 @@ The collection is constantly expanding and improving through customer feedback.
 <br>
 <hr>
 <br>
-<p align="center">Copyright &copy; 2023 Nuvibit AG</p>
+<p align="center">Copyright &copy; Nuvibit AG</p>
